@@ -1,0 +1,17 @@
+body {
+  min-height: 4000px;
+}
+nav {
+  background-color: #0b0b45;
+}
+.jumbotron {
+  background-color: #0b0b45;
+  padding-top: 4rem;
+}
+.contact-list li {
+  padding: 0.5rem 1rem;
+}
+.contact-list li a {
+  text-decoration: none;
+  color: #ffffff;
+}
