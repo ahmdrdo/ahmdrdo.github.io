@@ -2,6 +2,10 @@ h2 {
   font-weight: bold;
 }
 
+section {
+  padding-top: 3.5rem;
+}
+
 nav {
   background-color: #0b0b45;
 }
@@ -12,7 +16,7 @@ nav {
 
 .jumbotron {
   background-color: #0b0b45;
-  padding-top: 4rem;
+  padding-top: 8rem;
 }
 .contact-list li {
   padding: 0.5rem 1rem;
