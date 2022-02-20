@@ -1,8 +1,9 @@
-body {
-  min-height: 4000px;
-}
 nav {
   background-color: #0b0b45;
+}
+.navbar-brand {
+  font-family: "Bad Script", cursive;
+  font-weight: bold;
 }
 .jumbotron {
   background-color: #0b0b45;
@@ -16,5 +17,8 @@ nav {
   color: #ffffff;
 }
 #projects {
+  background-color: #0b0b45;
+}
+footer {
   background-color: #0b0b45;
 }
