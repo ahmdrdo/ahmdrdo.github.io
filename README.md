@@ -5,7 +5,7 @@ Email: ahmdrdo@gmail.com
 
 ### Resources:
 
-- Video: https://www.youtube.com/watch?v=LkR-9Z1sle8
+- Video: https://www.youtube.com/watch?v=LkR-9Z1sle8 and https://www.youtube.com/watch?v=2XosKncBoQ4
 - Bootstrap: https://getbootstrap.com
 - SVG wave generator: https://getwaves.io
 - SVG wave generator (with gradient color): https://svgwave.in/

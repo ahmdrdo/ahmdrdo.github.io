@@ -25,6 +25,9 @@ nav {
   text-decoration: none;
   color: #ffffff;
 }
+.my-alert {
+  font-size: smaller;
+}
 
 #projects {
   background-color: #0b0b45;
