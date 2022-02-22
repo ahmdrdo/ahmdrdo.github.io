@@ -9,6 +9,7 @@ Email: ahmdrdo@gmail.com
 - [Bootstrap](https://getbootstrap.com)
 - [SVG wave generator](https://getwaves.io) & [SVG wave generator (with gradient color)](https://svgwave.in/)
 - [Form to Google Sheet](https://github.com/jamiewilson/form-to-google-sheets) by Jamie Wilson
+- [Open link in new tab](https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/) by FreeCodeCamp
 
 ### Notes
 
